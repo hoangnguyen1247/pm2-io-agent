@@ -1,5 +1,5 @@
 {
-  "name": "@pm2/agent",
+  "name": "pm2t-io-agent",
   "version": "1.0.4",
   "description": "PM2.io Agent Daemon",
   "main": "index.js",
